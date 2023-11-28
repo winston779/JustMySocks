@@ -23,7 +23,7 @@ Just My Socks 是搬瓦工于2018年10月推出的基于ShadowSocks的科学上�
 <li>目前支持Paypal、支付宝和信用卡付款。</li>
 </ul>
 
-## 套餐列表
+## 搬瓦工价格
 
 <table style="border-collapse: collapse; width: 98.8387%; height: 180px;">
 <tbody>
