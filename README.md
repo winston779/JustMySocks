@@ -1,6 +1,6 @@
 # 搬瓦工机场官网地址
 
-最新地址：[justmysocks5.net](https://justmysocks3.net/members/aff.php?aff=26030)
+最新地址：[justmysocks5.net](https://justmysocks6.net/members/aff.php?aff=26030)
 
 ## 简介
 
